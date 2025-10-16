@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gestión de Proyectos</string>
+    <string name="nuevo_proyecto">Nuevo Proyecto</string>
+    <string name="editar_proyecto">Editar Proyecto</string>
+    <string name="nombre_proyecto">Nombre del Proyecto</string>
+    <string name="nombre_empresa">Nombre de la Empresa</string>
+    <string name="fecha_inicio">Fecha de Inicio</string>
+    <string name="duracion_meses">Duración (meses)</string>
+    <string name="crear">Crear Proyecto</string>
+    <string name="actualizar">Actualizar Proyecto</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirmar_eliminar">¿Estás seguro de eliminar este proyecto?</string>
+    <string name="proyecto_creado">Proyecto creado correctamente</string>
+    <string name="proyecto_actualizado">Proyecto actualizado correctamente</string>
+    <string name="proyecto_eliminado">Proyecto eliminado</string>
+    <string name="error_nombre_proyecto">Ingresa el nombre del proyecto</string>
+    <string name="error_nombre_empresa">Ingresa el nombre de la empresa</string>
+    <string name="error_fecha">Selecciona la fecha de inicio</string>
+    <string name="error_duracion">Ingresa una duración válida</string>
+</resources>
